@@ -1,0 +1,7 @@
+.env
+accounts.txt
+config.json
+proxy.txt
+venv/
+__pycache__/
+*.log
